@@ -1,113 +1,106 @@
 <!--
-  GitHub Profile README for: srikalachallagundla32-cloud
-  Dark neon-cyberpunk theme. All widgets are live (wired to your real username).
-  EDIT the bits marked  <!-- ✏️ -->  : display name, LinkedIn/Twitter/email.
+  GitHub Profile README — Purple Obsidian / Cosmos theme.
+  Palette: void #05020a · nebula #c084fc · supernova #e879f9 · cosmic-ray #38bdf8 · text #e2e8f0
+  EDIT the ✏️ social links below.
 -->
 
-<!-- ============ HEADER BANNER (animated waving gradient) ============ -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2FFF,100:FF2E97&height=210&section=header&text=Srikala%20Challagundla&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20Automation&descSize=18&descAlignY=58"
-    width="100%" alt="header banner" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:c084fc,100:e879f9&height=200&section=header&text=SRIKALA%20%2F%2F%20CYBER%20ARCHITECT&fontSize=40&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Go%20Systems%20%C2%B7%20AST%20Analysis%20%C2%B7%20Cloud%20FinOps%20Theater&descSize=16&descAlignY=58" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&duration=3000&color=C084FC&center=true&vCenter=true&width=720&lines=Building+zero-friction+developer+tools;Go+%C2%B7+Bubble+Tea+Terminal+Theater;Cloud+FinOps+%C2%B7+Cost+Governance+as+Theater;Deep+engineering+with+cosmic+flair+%E2%9A%A1" alt="typing" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=srikalachallagundla32-cloud&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS" alt="views"/>
+  <img src="https://img.shields.io/github/followers/srikalachallagundla32-cloud?style=for-the-badge&color=e879f9&labelColor=05020a&logo=github&label=FOLLOWERS" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/srikalachallagundla32-cloud?style=for-the-badge&color=38bdf8&labelColor=05020a&logo=github&label=STARS" alt="stars"/>
 </p>
 
-<!-- ============ TYPING ANIMATION ============ -->
-<p align="center">
-  <a href="https://github.com/srikalachallagundla32-cloud">
-    <img alt="what I do"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&duration=3000&color=00E5FF&center=true&vCenter=true&width=680&lines=AI+%26+Automation+Engineer;Full-Stack+Developer+%E2%80%94+React+%2F+Next.js;Backend+Architect+%E2%80%94+Go+%2F+.NET;Builder+of+developer+tools+%26+FinOps+automation" />
-  </a>
-</p>
+</div>
 
-<!-- ============ TOP BADGES ============ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srikalachallagundla32-cloud&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="views" />
-  <img src="https://img.shields.io/github/followers/srikalachallagundla32-cloud?style=for-the-badge&color=7B2FFF&labelColor=0D1117&logo=github&label=FOLLOWERS" alt="followers" />
-  <img src="https://img.shields.io/github/stars/srikalachallagundla32-cloud?style=for-the-badge&color=FF2E97&labelColor=0D1117&logo=github&label=STARS" alt="stars" />
-</p>
+```text
+ 🔮 SYSTEM: ONLINE  │  PALETTE: PURPLE OBSIDIAN  │  ENGINE: GOLANG ⚡
+```
 
 ---
 
-### 🚀 About Me
+### 🧾 Cosmic Operator Spec Sheet
 
-- 🤖 **AI & Automation** — building smart agents, fine-tuning LLMs, and wiring cognitive APIs into real interfaces.
-- 🎨 **Frontend Crafting** — smooth, high-fidelity experiences with **React** and server-side **Next.js**.
-- ⚙️ **Backend Engineering** — scalable microservices & APIs across modern and enterprise stacks.
-- 🛡️ **Shipping in the open** — creator of [**finops-guard**](https://github.com/srikalachallagundla32-cloud/finops-guard), a shift-left cost-analysis CLI for cloud & LLM APIs.
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-<p align="center">
-  <!-- FRONTEND -->
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00E5FF" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <br/>
-  <!-- BACKEND -->
-  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=953DAC" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET" />
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-  <br/>
-  <!-- TOOLING -->
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-</p>
+```text
+ 🚀 ═══════════════════════════════════════════════════════════════ 🚀
+                    COSMIC OPERATOR SPEC SHEET
+ ─────────────────────────────────────────────────────────────────
+   PRIMARY ENGINE ......... Go (Golang) · static loop-cost analysis
+   TUI COCKPIT ............ Bubble Tea · Lip Gloss (terminal theater)
+   AUTOMATION STACK ....... GitHub Actions · dynamic SVG · git notes
+   DISTRIBUTION VECTOR .... GoReleaser · Homebrew · Docker
+ ─────────────────────────────────────────────────────────────────
+   MISSION DIRECTIVE ...... Zero-friction developer tools that fuse
+                            hard engineering with cosmic flair.
+ 🪐 ═══════════════════════════════════════════════════════════════ 🪐
+```
 
 ---
 
-### 📊 Live Analytics
+### 🛰️ Flagship — [`finops-guard`](https://github.com/srikalachallagundla32-cloud/finops-guard)
 
-<p align="center">
-  <img width="48%" alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=srikalachallagundla32-cloud&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00E5FF&icon_color=FF2E97&text_color=c9d1d9&bg_color=0D1117" />
-  <img width="48%" alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikalachallagundla32-cloud&layout=compact&langs_count=8&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0D1117" />
-</p>
+The CLI that turns cost governance into developer theater — catches unbatched LLM/Cloud API loops, renders a Doom-fire TUI with particle physics, and posts living cost cards on GitHub PRs.
 
-<p align="center">
-  <img width="72%" alt="GitHub streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=srikalachallagundla32-cloud&hide_border=true&background=0D1117&stroke=7B2FFF&ring=FF2E97&fire=FF2E97&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
-
-<!--
-  Note: the two GitHub-Readme-Stats cards above use the shared community instance
-  (github-readme-stats.vercel.app), which is often rate-limited (HTTP 503). GitHub's
-  image proxy usually still renders them from cache. For 100% reliability, deploy your
-  own instance in ~5 min (fork anuraghazra/github-readme-stats → Vercel) and swap the
-  host below. The activity graph below is a different, reliable instance.
--->
-<p align="center">
-  <img alt="contribution activity graph" width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=srikalachallagundla32-cloud&bg_color=0D1117&color=00E5FF&line=FF2E97&point=7B2FFF&area=true&area_color=7B2FFF&hide_border=true" />
-</p>
-
----
-
-### 📌 Featured Project
+```bash
+brew install srikalachallagundla32-cloud/tap/finops-guard
+```
 
 <p align="center">
   <a href="https://github.com/srikalachallagundla32-cloud/finops-guard">
     <img width="60%" alt="finops-guard"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=srikalachallagundla32-cloud&repo=finops-guard&hide_border=true&title_color=00E5FF&icon_color=FF2E97&text_color=c9d1d9&bg_color=0D1117" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=srikalachallagundla32-cloud&repo=finops-guard&hide_border=true&title_color=c084fc&icon_color=38bdf8&text_color=e2e8f0&bg_color=05020a" />
   </a>
 </p>
 
 ---
 
-### ⚡ Connect With Me
+### 🛠️ Stack
 
 <p align="center">
-  <!-- ✏️ replace the hrefs with your real handles -->
-  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Go-05020a?style=for-the-badge&logo=go&logoColor=38bdf8" alt="Go" />
+  <img src="https://img.shields.io/badge/Bubble_Tea-05020a?style=for-the-badge&logo=charm&logoColor=e879f9" alt="Bubble Tea" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-05020a?style=for-the-badge&logo=githubactions&logoColor=c084fc" alt="Actions" />
+  <img src="https://img.shields.io/badge/Docker-05020a?style=for-the-badge&logo=docker&logoColor=38bdf8" alt="Docker" />
+  <img src="https://img.shields.io/badge/GoReleaser-05020a?style=for-the-badge&logo=goreleaser&logoColor=e879f9" alt="GoReleaser" />
 </p>
 
-<!-- ============ FOOTER WAVE ============ -->
+---
+
+### 📊 Live Telemetry
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7B2FFF,100:00E5FF&height=110&section=footer" width="100%" alt="footer" />
+  <img width="48%" alt="stats"
+    src="https://github-readme-stats.vercel.app/api?username=srikalachallagundla32-cloud&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=c084fc&icon_color=e879f9&text_color=e2e8f0&bg_color=05020a" />
+  <img width="48%" alt="top langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikalachallagundla32-cloud&layout=compact&langs_count=8&hide_border=true&title_color=c084fc&text_color=e2e8f0&bg_color=05020a" />
+</p>
+
+<p align="center">
+  <img width="72%" alt="streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=srikalachallagundla32-cloud&hide_border=true&background=05020a&stroke=c084fc&ring=e879f9&fire=e879f9&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+</p>
+
+<p align="center">
+  <img width="98%" alt="activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=srikalachallagundla32-cloud&bg_color=05020a&color=c084fc&line=e879f9&point=38bdf8&area=true&area_color=c084fc&hide_border=true" />
+</p>
+
+---
+
+### ⚡ Connect
+
+<p align="center">
+  <!-- ✏️ replace with your real handles -->
+  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-05020a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-05020a?style=for-the-badge&logo=x&logoColor=e2e8f0" alt="Twitter" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-05020a?style=for-the-badge&logo=gmail&logoColor=e879f9" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e879f9,50:c084fc,100:38bdf8&height=110&section=footer" width="100%" alt="footer" />
 </p>

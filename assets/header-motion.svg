@@ -23,6 +23,10 @@
       .orbitA { transform-origin: 600px 160px; transform-box: view-box; animation: spin 16s linear infinite }
       .orbitB { transform-origin: 600px 160px; transform-box: view-box; animation: spinRev 22s linear infinite }
       .title  { animation: glow 3.5s ease-in-out infinite }
+      /* Accessibility: honor the OS "reduce motion" setting. */
+      @media (prefers-reduced-motion: reduce) {
+        .star, .ring, .orbitA, .orbitB, .title { animation: none }
+      }
     </style>
   </defs>
 

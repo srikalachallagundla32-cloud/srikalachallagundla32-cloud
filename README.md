@@ -4,9 +4,9 @@
   EDIT the ✏️ social links below.
 -->
 
-<div align="center">
+<img src="assets/header-motion.svg" width="100%" alt="SRIKALA // CYBER ARCHITECT — animated cosmic header" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:c084fc,100:e879f9&height=200&section=header&text=SRIKALA%20%2F%2F%20CYBER%20ARCHITECT&fontSize=40&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Go%20Systems%20%C2%B7%20AST%20Analysis%20%C2%B7%20Cloud%20FinOps%20Theater&descSize=16&descAlignY=58" width="100%" alt="header" />
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&duration=3000&color=C084FC&center=true&vCenter=true&width=720&lines=Building+zero-friction+developer+tools;Go+%C2%B7+Bubble+Tea+Terminal+Theater;Cloud+FinOps+%C2%B7+Cost+Governance+as+Theater;Deep+engineering+with+cosmic+flair+%E2%9A%A1" alt="typing" />
 

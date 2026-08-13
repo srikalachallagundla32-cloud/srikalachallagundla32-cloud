@@ -27,18 +27,10 @@
 
 ### 🛸 About Me
 
-```text
- 🚀 ═══════════════════════════════════════════════════════════════════════ 🚀
-                         COSMIC OPERATOR SPEC SHEET 📜
- ───────────────────────────────────────────────────────────────────────────
-  🌌 CORE FOCUS .......... High-performance CLI tools, Go static analyzers,
-                           and automated GitHub CI/CD PR theater.
-  🛠️ FLAGSHIP PROJECT ..... FinOps-Guard (Doom-fire TUI + Animated PR Cards)
-  ⚙️ DISTRIBUTION ......... GoReleaser · Homebrew Tap · GitHub Actions
-  🪐 MISSION DIRECTIVE .... Blending hardcore system engineering with
-                           unhinged visual polish & developer delight.
- 🪐 ═══════════════════════════════════════════════════════════════════════ 🪐
-```
+- 🌌 &nbsp;**Core focus** — high-performance CLI tools, Go static analyzers, and automated GitHub CI/CD PR theater.
+- 🛠️ &nbsp;**Flagship** — [**FinOps-Guard**](https://github.com/srikalachallagundla32-cloud/finops-guard): a Doom-fire TUI with animated PR cost cards and committable fix suggestions.
+- ⚙️ &nbsp;**Distribution** — GoReleaser · Homebrew tap · GitHub Actions.
+- 🪐 &nbsp;**Mission** — blend hardcore systems engineering with unhinged visual polish &amp; developer delight.
 
 ---
 

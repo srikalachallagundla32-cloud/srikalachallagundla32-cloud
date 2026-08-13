@@ -66,16 +66,23 @@
 ### 📊 Cosmic Telemetry
 
 <p align="center">
-  <img width="48%" alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=srikalachallagundla32-cloud&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=c084fc&icon_color=e879f9&text_color=e2e8f0&bg_color=05020a" />
-  <img width="48%" alt="Most used languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikalachallagundla32-cloud&layout=compact&langs_count=8&hide_border=true&title_color=c084fc&text_color=e2e8f0&bg_color=05020a" />
-</p>
-
-<p align="center">
   <img width="72%" alt="GitHub streak"
     src="https://github-readme-streak-stats.herokuapp.com/?user=srikalachallagundla32-cloud&hide_border=true&background=05020a&stroke=c084fc&ring=e879f9&fire=e879f9&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
+
+<p align="center">
+  <img width="98%" alt="Contribution activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=srikalachallagundla32-cloud&bg_color=05020a&color=c084fc&line=e879f9&point=38bdf8&area=true&area_color=c084fc&hide_border=true" />
+</p>
+
+<!--
+  The GitHub-Readme-Stats "Stats" and "Top Languages" cards were removed because the
+  shared instance (github-readme-stats.vercel.app) is rate-limited (HTTP 503) and shows
+  broken images. To bring them back reliably, deploy your own instance in ~5 min
+  (fork anuraghazra/github-readme-stats → Vercel) and add its cards here.
+-->
+
+
 
 ---
 

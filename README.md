@@ -35,10 +35,20 @@
 
 ## 🚀 Featured Project — FinOps Guard
 
-- 🌌 &nbsp;**Core focus** — high-performance CLI tools, Go static analyzers, and automated GitHub CI/CD PR theater.
-- 🛠️ &nbsp;**Flagship** — [**FinOps-Guard**](https://github.com/srikalachallagundla32-cloud/finops-guard): a Doom-fire TUI with animated PR cost cards and committable fix suggestions.
-- ⚙️ &nbsp;**Distribution** — GoReleaser · Homebrew tap · GitHub Actions.
-- 🪐 &nbsp;**Mission** — blend hardcore systems engineering with unhinged visual polish &amp; developer delight.
+**Shift-left cost protection for cloud & LLM API calls.** A static-analysis CLI that catches the loop-bound API calls — the "AI slop" — that quietly turn a $5 script into a $5,000 cloud bill. It scans your code *before merge* across **7 providers** (OpenAI, Anthropic, Bedrock, Vertex AI, Athena, DynamoDB, Pinecone), projects the dollar risk, and reports it right where you review: the pull request.
+
+- 🔥 **Doom-fire Cost Reactor TUI** — a burn gauge sized to `projected / budget`, dollar-rain particles, and a rotating Virtual CFO.
+- 📊 **Animated PR cost card** — posted on every pull request, with a one-click *Commit suggestion* to fix the flagged line.
+- 🧾 **Git-notes spend ledger** — every merge stamped with a cost delta, so `git log` becomes an offline FinOps ledger.
+
+```bash
+# install
+brew install srikalachallagundla32-cloud/tap/finops-guard
+go install github.com/srikalachallagundla32-cloud/finops-guard/cmd/finops-guard@latest
+
+# scan before you merge
+finops-guard --pricing=pricing.json --scan=examples/rag_pipeline.py
+```
 
 <a href="https://github.com/srikalachallagundla32-cloud/finops-guard">
   <img src="https://img.shields.io/badge/→_Explore_the_repo-1f2430?style=for-the-badge&logo=github&logoColor=white" alt="explore the repo" />
@@ -77,6 +87,30 @@
 
 ## 🔭 Current Obsessions
 
+- **Cost as a first-class code smell** — the same way linters flag unused vars, tools should flag the loop that's about to bankrupt you.
+- **Developer theater** — CLIs that are genuinely fun to look at. If a tool makes you smile, you'll actually run it.
+- **Zero-friction distribution** — `brew install` / `go install` and a green PR check. No dashboards, no signup, no runtime.
+- **Static analysis without an AST tax** — how far scope-tracking + regex gets you before you *need* a full parser.
+
+## 🛠️ Currently Building
+
+- **FinOps Guard** → expanding detections toward a real AST pass (recursive-agent + unthrottled-poll patterns that regex can't reach).
+- **The PR "theater" kit** → animated SVG cost cards, committable fix suggestions, and narrative check runs as a reusable Action.
+- **A git-notes spend ledger** → turning `refs/notes/finops` into an offline, dashboard-free cost history.
+
+---
+
+## 📌 Projects
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**FinOps Guard**](https://github.com/srikalachallagundla32-cloud/finops-guard) | Catches loop-bound cloud/LLM API calls before they hit your bill · animated PR cost card · Doom-fire TUI | Go · Bubble Tea · GitHub Actions |
+| [**homebrew-tap**](https://github.com/srikalachallagundla32-cloud/homebrew-tap) | One-line `brew install` distribution for my tools | Homebrew · GoReleaser |
+
+---
+
+## 📊 Activity
+
 <p align="center">
   <img width="72%" alt="GitHub streak"
     src="https://github-readme-streak-stats.herokuapp.com/?user=srikalachallagundla32-cloud&hide_border=true&background=0d1117&stroke=a855f7&ring=e879f9&fire=e879f9&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
@@ -86,20 +120,6 @@
   <img width="98%" alt="Contribution activity"
     src="https://github-readme-activity-graph.vercel.app/graph?username=srikalachallagundla32-cloud&bg_color=0d1117&color=a855f7&line=e879f9&point=38bdf8&area=true&area_color=a855f7&hide_border=true" />
 </p>
-
-<p align="center">
-  <img width="98%" alt="Contribution activity"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=srikalachallagundla32-cloud&bg_color=05020a&color=c084fc&line=e879f9&point=38bdf8&area=true&area_color=c084fc&hide_border=true" />
-</p>
-
-<!--
-  The GitHub-Readme-Stats "Stats" and "Top Languages" cards were removed because the
-  shared instance (github-readme-stats.vercel.app) is rate-limited (HTTP 503) and shows
-  broken images. To bring them back reliably, deploy your own instance in ~5 min
-  (fork anuraghazra/github-readme-stats → Vercel) and add its cards here.
--->
-
-
 
 ---
 

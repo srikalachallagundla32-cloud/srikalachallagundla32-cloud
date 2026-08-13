@@ -1,73 +1,90 @@
 <!--
-  GitHub Profile README — Cosmic Obsidian.
-  Palette: void #05020a · nebula #c084fc / #a855f7 · supernova #e879f9 · cosmic-ray #38bdf8 · text #e2e8f0
-  EDIT the ✏️ social links near the bottom.
+  GitHub Profile README — Srikala Challagundla
+  Leads with FinOps-Guard: the profile is the product's landing page.
 -->
 
 <div align="center">
 
-<!-- Animated typing hero (Fira Code · starlight purple) -->
-<a href="https://github.com/srikalachallagundla32-cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=SRIKALA+%2F%2F+COSMIC+ARCHITECT;Go+Systems+%C2%B7+AST+Parsers+%C2%B7+TUI+Theater;Creator+of+FinOps-Guard+%E2%9A%A1;Building+Zero-Friction+Developer+Tools" alt="Typing SVG" />
+<!-- HERO: the first thing visitors see — the real FinOps-Guard TUI in action -->
+<a href="https://github.com/srikalachallagundla32-cloud/finops-guard">
+  <img src="./assets/demo.png" width="900" alt="FinOps-Guard Cost Reactor TUI — a Doom-fire cost canvas, dollar-rain particles, a live budget-burn gauge, and navigable findings" />
 </a>
 
-<p align="center">
+<br/>
+<br/>
+
+# Hi, I'm Srikala 👋
+
+### I build developer tools that make invisible costs impossible to ignore.
+
+<p>
   <a href="https://github.com/srikalachallagundla32-cloud/finops-guard">
-    <img src="https://img.shields.io/badge/Flagship-FinOps--Guard-a855f7?style=for-the-badge&logo=go&logoColor=white" alt="finops-guard" />
+    <img src="https://img.shields.io/badge/Flagship-FinOps--Guard-a855f7?style=for-the-badge&logo=go&logoColor=white" alt="FinOps-Guard" />
   </a>
   <a href="https://github.com/srikalachallagundla32-cloud/homebrew-tap">
-    <img src="https://img.shields.io/badge/Homebrew-srikalachallagundla32--cloud%2Ftap-38bdf8?style=for-the-badge&logo=homebrew&logoColor=black" alt="homebrew tap" />
+    <img src="https://img.shields.io/badge/Install-brew%20%2F%20go-38bdf8?style=for-the-badge&logo=homebrew&logoColor=black" alt="install" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=srikalachallagundla32-cloud&style=for-the-badge&color=c084fc&label=VIEWS" alt="views" />
+  <a href="https://www.linkedin.com/in/srikala-challagundla/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-### 🛸 About Me
+## 🚀 Featured Project — FinOps Guard
 
 - 🌌 &nbsp;**Core focus** — high-performance CLI tools, Go static analyzers, and automated GitHub CI/CD PR theater.
 - 🛠️ &nbsp;**Flagship** — [**FinOps-Guard**](https://github.com/srikalachallagundla32-cloud/finops-guard): a Doom-fire TUI with animated PR cost cards and committable fix suggestions.
 - ⚙️ &nbsp;**Distribution** — GoReleaser · Homebrew tap · GitHub Actions.
 - 🪐 &nbsp;**Mission** — blend hardcore systems engineering with unhinged visual polish &amp; developer delight.
 
----
-
-### 🧬 Languages &amp; Tools
-
-**Core Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Go-05020a?style=for-the-badge&logo=go&logoColor=38bdf8" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-05020a?style=for-the-badge&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-05020a?style=for-the-badge&logo=python&logoColor=c084fc" alt="Python" />
-</p>
-
-**TUI Frameworks**
-
-<p>
-  <img src="https://img.shields.io/badge/Bubble_Tea-05020a?style=for-the-badge&logo=charm&logoColor=e879f9" alt="Bubble Tea" />
-  <img src="https://img.shields.io/badge/Lip_Gloss-05020a?style=for-the-badge&logo=charm&logoColor=c084fc" alt="Lip Gloss" />
-</p>
-
-**DevOps / Cloud**
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-05020a?style=for-the-badge&logo=githubactions&logoColor=c084fc" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-05020a?style=for-the-badge&logo=docker&logoColor=38bdf8" alt="Docker" />
-  <img src="https://img.shields.io/badge/GoReleaser-05020a?style=for-the-badge&logo=goreleaser&logoColor=e879f9" alt="GoReleaser" />
-  <img src="https://img.shields.io/badge/Homebrew-05020a?style=for-the-badge&logo=homebrew&logoColor=c084fc" alt="Homebrew" />
-  <img src="https://img.shields.io/badge/AWS-05020a?style=for-the-badge&logo=amazonwebservices&logoColor=38bdf8" alt="AWS" />
-</p>
+<a href="https://github.com/srikalachallagundla32-cloud/finops-guard">
+  <img src="https://img.shields.io/badge/→_Explore_the_repo-1f2430?style=for-the-badge&logo=github&logoColor=white" alt="explore the repo" />
+</a>
 
 ---
 
-### 📊 Cosmic Telemetry
+## 🧰 Toolbox
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+**Terminal UI**
+
+<p>
+  <img src="https://img.shields.io/badge/Bubble_Tea-ff69b4?style=for-the-badge&logo=charm&logoColor=white" alt="Bubble Tea" />
+  <img src="https://img.shields.io/badge/Lip_Gloss-a855f7?style=for-the-badge&logo=charm&logoColor=white" alt="Lip Gloss" />
+</p>
+
+**Ship & Automate**
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GoReleaser-317CB1?style=for-the-badge&logo=goreleaser&logoColor=white" alt="GoReleaser" />
+  <img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
+
+---
+
+## 🔭 Current Obsessions
 
 <p align="center">
   <img width="72%" alt="GitHub streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=srikalachallagundla32-cloud&hide_border=true&background=05020a&stroke=c084fc&ring=e879f9&fire=e879f9&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=srikalachallagundla32-cloud&hide_border=true&background=0d1117&stroke=a855f7&ring=e879f9&fire=e879f9&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+</p>
+
+<p align="center">
+  <img width="98%" alt="Contribution activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=srikalachallagundla32-cloud&bg_color=0d1117&color=a855f7&line=e879f9&point=38bdf8&area=true&area_color=a855f7&hide_border=true" />
 </p>
 
 <p align="center">
@@ -86,15 +103,13 @@
 
 ---
 
-### ⚡ Connect
+## 🤝 Connect
 
-<p align="center">
-  <!-- ✏️ replace with your real handles -->
-  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-05020a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-05020a?style=for-the-badge&logo=x&logoColor=e2e8f0" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-05020a?style=for-the-badge&logo=gmail&logoColor=e879f9" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e879f9,50:c084fc,100:38bdf8&height=110&section=footer" width="100%" alt="footer" />
+<p>
+  <a href="https://www.linkedin.com/in/srikala-challagundla/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:srikalachallagundla32@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
